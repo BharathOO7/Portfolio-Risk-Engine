@@ -72,7 +72,7 @@ PortfolioRiskProject/
 
 ```bash
 # 1. Clone the Repository
-git clone https://github.com/your-username/Universal-Portfolio-Risk-Engine.git
+git clone https://github.com/BharathOO7/Portfolio-Risk-Engine.git
 cd Universal-Portfolio-Risk-Engine
 
 # 2. Create Virtual Environment (Recommended)
@@ -192,4 +192,5 @@ This project is developed for **educational and research purposes**.
 License
 
 This project is developed for educational and research purposes.
+
 
